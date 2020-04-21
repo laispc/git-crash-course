@@ -2,4 +2,4 @@
 
 Este o workshop de Git do LKCAMP.
 
-* Data de realização: 23 de abril de 2020
+* Data de realização: 23/04/2020
