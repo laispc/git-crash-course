@@ -1,4 +1,5 @@
 def print_hello():
-    print('Hello Git')
+    for i in range(5):
+        print(str(i+1) + ' Hello Git')
 
 print_hello()
