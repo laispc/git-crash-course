@@ -9,3 +9,5 @@ Este o workshop de Git do LKCAMP.
 * git init
 * git config
 * git status
+* git add
+* git branch 
